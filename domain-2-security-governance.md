@@ -1,4 +1,4 @@
-# Domain 2: Security Governance (17.3% Exam Weight)
+# Domain 2: Security Governance
 
 ## 1. Governance, Risk and Compliance (GRC)
 * **Governance:** Establishing strategic direction, accountability structures and oversight to ensure security aligns with business objectives.
